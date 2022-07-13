@@ -19,6 +19,6 @@ frensh:
  2.puis ici le bot marche que pour les mails donc si vous devez le modifier c'est dans la ligne : 
 
     
-                                                                                                    imap_server = "imap.gmail.com
+                                                                   imap_server = "imap.gmail.com
                                                                                            
     qui est juste après la connexion 
