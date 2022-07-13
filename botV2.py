@@ -73,7 +73,7 @@ def encodage(corps, dico):
 # -------------------/Function--------------------
 # account credentials
 username = "thebestforeve81@gmail.com"
-password = "mjzlgabkjnrqckbt"
+password = "mdp"
 # use your email provider's IMAP server, you can look for your provider's IMAP server on Google
 # or check this page: https://www.systoolsgroup.com/imap/
 # for office 365, it's this:
